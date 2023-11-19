@@ -1,0 +1,11 @@
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\bin\Debug\Lab4_Sophie_WF_TDD.exe.config
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\bin\Debug\Lab4_Sophie_WF_TDD.exe
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\bin\Debug\Lab4_Sophie_WF_TDD.pdb
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.csproj.AssemblyReference.cache
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.Properties.Resources.resources
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.csproj.GenerateResource.cache
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.exe
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.pdb
+C:\Users\goss_rivero\source\repos\Lab4_TDD\Lab4_Sophie_WF_TDD\obj\Debug\Lab4_Sophie_WF_TDD.Form1.resources
